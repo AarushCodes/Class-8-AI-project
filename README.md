@@ -2,7 +2,5 @@
 
 To use this program:
 
-1.Download all main.py and programs folder, Or clone this repository
+1.Download all main.py and programs folder, Or clone this repository.
 2.Execute main.py
-
-###And done
