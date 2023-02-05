@@ -1,4 +1,4 @@
-# Class-8-AI-project
+# Class 8 AI project
 
 To use this program:
 
